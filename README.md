@@ -26,4 +26,7 @@ npm i
 
 ```shell
 npm run start:local
+
+
+NODE_OPTIONS=--openssl-legacy-provider npm run start:local
 ```
